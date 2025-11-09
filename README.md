@@ -2,7 +2,8 @@
 
 hello everyone!
 this is my first repository
-in github!!
+in github!
 
 just update this file.
-י
+
+and now from local pc
